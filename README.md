@@ -8,7 +8,7 @@
 
 
   <h1>
-  <img src="Image/animation.gif">
+  <img src="./Image/Animation.gif">
   </h1>
   
   
